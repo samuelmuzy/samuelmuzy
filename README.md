@@ -4,7 +4,7 @@
 
 
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/samuelmuzy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmuzy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmuzy&layout=compact&langs_count=7&theme=dracula"/>
@@ -27,6 +27,11 @@
 ### Data Science
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
  ##
   
