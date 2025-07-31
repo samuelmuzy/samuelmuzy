@@ -1,7 +1,10 @@
 ## 👨‍💻 Sobre mim
-Sou Samuel, Desenvolvedor Júnior residente em Muriaé/MG, em transição para o mercado de tecnologia com foco em desenvolvimento web. Tenho conhecimento em tecnologias frontend e backend, com ênfase em aplicações modernas baseadas em JavaScript e suas tecnologias associadas.
+👋 Olá! Sou Samuel, Desenvolvedor Júnior de Muriaé/MG, em transição para o mercado de tecnologia com foco em desenvolvimento web full stack.
 
-Atualmente, estou aprofundando meus estudos em Node.js e Python, buscando expandir minhas competências em desenvolvimento full stack.
+💻 Tenho conhecimentos em **JavaScript**, **TypeScript**, **Node.js**, **React**, entre outras tecnologias modernas de frontend e backend. Meu foco atual está no aperfeiçoamento de aplicações escaláveis e performáticas, utilizando boas práticas de código.
+
+📚 Atualmente, aprofundo meus estudos em **Node.js**, **Python** e **bancos de dados relacionais e NoSQL**, com o objetivo de expandir minhas competências como desenvolvedor full stack.
+
 
 
 
