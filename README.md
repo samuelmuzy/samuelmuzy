@@ -1,4 +1,9 @@
-## Olá meu nome e Samuel 👋
+### 👨‍💻 Sobre mim
+Sou Samuel, Desenvolvedor Júnior residente em Muriaé/MG, em transição para o mercado de tecnologia com foco em desenvolvimento web. Tenho conhecimento em tecnologias frontend e backend, com ênfase em aplicações modernas baseadas em JavaScript e suas tecnologias associadas.
+
+Atualmente, estou aprofundando meus estudos em Node.js e Python, buscando expandir minhas competências em desenvolvimento full stack.
+
+
 
 
 
