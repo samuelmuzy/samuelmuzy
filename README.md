@@ -59,11 +59,3 @@
 
 ---
 
-## 🎯 Projetos Destacados
-
-**Portfolio de projetos** demonstrando **interesse** em desenvolvimento full stack, aplicações mobile e soluções inovadoras. Cada projeto reflete **aprendizado contínuo** em tecnologias modernas e metodologias eficientes.
-
----
-
-**💻 Desenvolvido com dedicação e inovação tecnológica**
-
